@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------------------
+# Course material (not redistributed)
+# ---------------------------------------------------------------------------
+# The original IBM AI Engineering capstone lab notebooks and the course-hosted
+# dataset are third-party material and are intentionally kept out of version
+# control. See data/README.md and the Acknowledgements section of README.md.
+*.ipynb
+/images_dataSAT/
+/images-dataSAT.tar
+/_archive/
+
+# ---------------------------------------------------------------------------
+# Datasets, models and generated artefacts
+# ---------------------------------------------------------------------------
+/data/images_dataSAT/
+/data/*.tar
+/data/*.zip
+*.keras
+*.h5
+*.pth
+*.pt
+*.onnx
+/runs/
+/logs/
+/checkpoints/
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Virtual environments
+# ---------------------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---------------------------------------------------------------------------
+# Secrets / local configuration
+# ---------------------------------------------------------------------------
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.*
+
+# ---------------------------------------------------------------------------
+# Editors / OS
+# ---------------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db

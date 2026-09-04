@@ -1,0 +1,21 @@
+# Land-Classification-CNN-ViT — runtime dependencies
+#
+# Versions mirror the environment used for the original IBM AI Engineering
+# capstone work. TensorFlow and PyTorch are both required because the project
+# implements every model in each framework for a like-for-like comparison.
+#
+# Install (CPU):
+#   pip install -r requirements.txt
+# For a CUDA build of PyTorch, follow https://pytorch.org/get-started/locally/
+# and install torch/torchvision separately.
+
+numpy==1.26.4
+matplotlib==3.9.2
+pillow==10.4.0
+scikit-learn==1.7.0
+tqdm==4.66.5
+
+tensorflow==2.19.0
+
+torch==2.8.0
+torchvision==0.23.0
