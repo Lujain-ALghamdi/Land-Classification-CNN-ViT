@@ -341,4 +341,5 @@ the [MIT License](LICENSE).
 The license covers **only** the material authored for this repository. It does
 not relicense the IBM AI Engineering course materials, the Sentinel-2 / IBM
 dataset, or the third-party libraries in `requirements.txt` &mdash; each retains
-its own terms, and no ownership over them is claimed.
+its own terms, and no ownership over them is claimed. See [`NOTICE`](NOTICE) for
+the full scope and attribution statement.

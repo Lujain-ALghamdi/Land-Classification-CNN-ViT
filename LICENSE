@@ -19,22 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-Scope of this license
-
-This MIT license applies only to the original source code and documentation
-authored for this repository (the contents of `src/`, the `README.md`, and the
-other project files committed here).
-
-It does NOT apply to, and no ownership is claimed over:
-
-  * The IBM AI Engineering Professional Certificate course materials that
-    inspired this project, including the original lab notebooks. Those remain
-    "© Copyright IBM Corporation. All rights reserved." and are not
-    redistributed in this repository.
-  * The satellite image dataset used for training and evaluation. See
-    `data/README.md` for its origin and terms.
-  * Third-party libraries listed in `requirements.txt`, each of which is
-    distributed under its own license.
----------------------------------------------------------------------------

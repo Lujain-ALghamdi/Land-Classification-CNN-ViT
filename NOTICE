@@ -1,0 +1,38 @@
+Land-Classification-CNN-ViT
+===========================
+
+Scope of the MIT License
+------------------------
+
+The MIT License in the LICENSE file applies ONLY to the original material
+authored for this repository: the contents of `src/`, `README.md`,
+`data/README.md`, and the project configuration files.
+
+It does NOT relicense, and no ownership is claimed over, any of the following:
+
+1. IBM AI Engineering course materials
+   This project originated as the capstone of the IBM AI Engineering
+   Professional Certificate ("AI Capstone Project with Deep Learning"). The
+   original lab notebooks are "(c) Copyright IBM Corporation. All rights
+   reserved." and are NOT redistributed in this repository. Only the author's
+   own reorganised implementation is published here.
+
+2. The satellite image dataset
+   The training/evaluation imagery is derived from Copernicus Sentinel-2
+   Level-2A products: "(c) European Union, contains modified Copernicus
+   Sentinel data". The curated, labelled dataset bundle (`images-dataSAT.tar`)
+   is distributed by IBM Skills Network for the course and is NOT redistributed
+   here. See `data/README.md`.
+
+3. Third-party libraries
+   The packages listed in `requirements.txt` (TensorFlow, PyTorch, torchvision,
+   scikit-learn, NumPy, Matplotlib, Pillow, tqdm) are each distributed under
+   their own licenses.
+
+Attribution
+-----------
+
+If you build on the original code in this repository, attribution to
+"Lujain Alghamdi" is appreciated but not required under the MIT License.
+Attribution for the dataset and course materials must follow the terms of
+their respective owners as described above.
