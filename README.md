@@ -14,7 +14,7 @@ original source and scope.
 
 ---
 
-## Overview
+## Overview 
 
 Mapping land use from satellite imagery supports agricultural monitoring, food-
 security analysis, urban planning and environmental protection. This project
